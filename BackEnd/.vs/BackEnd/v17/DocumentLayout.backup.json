@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|c:\\users\\admin\\desktop\\code \u0111\u1ED3 \u00E1n\\backend\\backend\\sqlconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\sqlconnectionstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|c:\\users\\admin\\desktop\\code \u0111\u1ED3 \u00E1n\\backend\\backend\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|c:\\users\\admin\\desktop\\code \u0111\u1ED3 \u00E1n\\backend\\backend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\controllers\\adminscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|c:\\users\\admin\\desktop\\code \u0111\u1ED3 \u00E1n\\backend\\backend\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\model\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|c:\\users\\admin\\desktop\\code \u0111\u1ED3 \u00E1n\\backend\\backend\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07D54F2D-BEA1-42A2-AEA7-FCBFBCB31FBA}|BackEnd\\BackEnd.csproj|solutionrelative:backend\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\CartsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:52.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Controllers\\AdminsController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\AdminsController.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Controllers\\AdminsController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\AdminsController.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAewGMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Model\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Model\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Model\\OrderDetail.cs",
+              "RelativeToolTip": "BackEnd\\Model\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:52.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\Model\\Order.cs",
+              "RelativeToolTip": "BackEnd\\Model\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:52.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SqlConnectionString.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\SqlConnectionString.cs",
+              "RelativeDocumentMoniker": "BackEnd\\SqlConnectionString.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\Code \u0111\u1ED3 \u00E1n\\BackEnd\\BackEnd\\SqlConnectionString.cs",
+              "RelativeToolTip": "BackEnd\\SqlConnectionString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:16:52.582Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

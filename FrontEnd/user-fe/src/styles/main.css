@@ -1,0 +1,30 @@
+@import url('./Bases/input.css');
+@import url('./Bases/button.css');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content-item {
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 12px;
+}
+
+.fas {
+    color: #71c7d4;
+    cursor: pointer;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
